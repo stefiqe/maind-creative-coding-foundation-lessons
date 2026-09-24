@@ -9,3 +9,5 @@ The topics are:
 - HTML
 - CSS
 - JS
+
+Maind year 2026/27 
